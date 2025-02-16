@@ -1,6 +1,5 @@
 # Análise crítica sobre a aplicação do Scrum na organização da Intel
 
-Por que a abordagem ágil foi utilizada e não a tradicional para o projeto?
 A Intel tradicionalmente seguia uma abordagem waterfall, estruturada em silos funcionais e com entregas fragmentadas, o que gerava alta sobrecarga nos times, prazos perdidos e baixa moral. A decisão de adotar o ágil surgiu da necessidade de reduzir o tempo de ciclo, melhorar a previsibilidade e aumentar a colaboração entre equipes. O Scrum foi escolhido para organizar melhor os esforços das equipes dentro do Product Development Engineering (PDE) e suavizar a entrega do produto.
 
 Por que o Scrum foi utilizado?
